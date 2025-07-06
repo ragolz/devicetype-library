@@ -9,6 +9,8 @@ weight: 15.4
 weight_unit: kg
 airflow: front-to-rear
 comments: '[Technical Specification](https://www.supermicro.com/en/products/system/2U/6028/SSG-6028R-E1CR12T.cfm)'
+front_image: true
+rear_image: true
 console-ports:
   - name: Serial
     type: de-9
