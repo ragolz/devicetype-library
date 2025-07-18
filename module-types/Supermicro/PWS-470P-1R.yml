@@ -1,0 +1,10 @@
+---
+manufacturer: Supermicro
+model: Platinum PSU 400W
+part_number: PWS-470P-1R
+comments: |
+  [400W 1U Multi-Output Power Supply]
+power-ports:
+  - name: PSU{module}
+    type: iec-60320-c14
+    maximum_draw: 400
