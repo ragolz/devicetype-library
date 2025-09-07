@@ -5,4 +5,8 @@ part_number: PWS-741P-1R
 power-ports:
   - name: PSU-{module}
     type: iec-60320-c14
+<<<<<<< HEAD
     maximum_draw: 740
+=======
+    maximum_draw: 740
+>>>>>>> Supermicro-Servers
