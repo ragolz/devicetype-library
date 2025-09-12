@@ -8,6 +8,8 @@ is_full_depth: false
 weight: 134
 weight_unit: g
 comments: '[TRB140 Specs](https://www.teltonika-networks.com/products/gateways/trb140)'
+front_image: true
+rear_image: true
 power-ports:
   - name: PS0
     type: dc-terminal
