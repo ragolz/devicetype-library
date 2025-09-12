@@ -1,0 +1,19 @@
+---
+manufacturer: Teltonika
+model: TRB140
+slug: teltonika-trb140
+part_number: TRB140
+u_height: 0.5
+is_full_depth: false
+weight: 241
+weight_unit: g
+comments: '[TRB140 Specs](https://www.teltonika-networks.com/products/gateways/trb140)'
+power-ports:
+  - name: PS0
+    type: dc-terminal
+    maximum_draw: 6
+interfaces:
+  - name: lan
+    type: 1000base-t
+  - name: mob1s1a1
+    type: lte
