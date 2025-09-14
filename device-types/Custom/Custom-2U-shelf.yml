@@ -1,0 +1,15 @@
+---
+manufacturer: Custom
+model: Custom 2U Rack shelf
+slug: custom-2u-Rack-shelf
+part_number: custom-2u-rack-shelf
+u_height: 2
+is_full_depth: false
+comments: 'Custom generic 2U Rack shelf'
+front_image: true
+rear_image: true
+weight: 2.27
+weight_unit: kg
+airflow: front-to-rear
+
+

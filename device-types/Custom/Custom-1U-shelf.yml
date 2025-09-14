@@ -1,0 +1,15 @@
+---
+manufacturer: Custom
+model: Custom 1U Rack shelf
+slug: custom-1u-Rack-shelf
+part_number: custom-1u-rack-shelf
+u_height: 1
+is_full_depth: false
+comments: 'Custom generic 1U Rack shelf'
+front_image: true
+rear_image: true
+weight: 2
+weight_unit: kg
+airflow: front-to-rear
+
+
