@@ -42,6 +42,3 @@ interfaces:
     type: 100base-tx
     mgmt_only: true
 
-
-16 IEC 60320 C13
-2 IEC 60320 C19
