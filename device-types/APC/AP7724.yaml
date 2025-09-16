@@ -1,0 +1,47 @@
+---
+manufacturer: APC
+model: AP7724
+slug: apc-ap7724
+part_number: AP7724
+u_height: 2
+is_full_depth: false
+front_image: true
+rear_image: true
+comments: RACK ATS, 32A/230V, C20 IN, (16) C13 + (2) C19 OUT
+weight: 9.34
+weight_unit: kg
+console-ports:
+  - name: Serial
+    type: rj-12
+power-ports:
+  - name: Source A
+    type: iec-60309-2p-e-6h
+  - name: Source B
+    type: iec-60309-2p-e-6h
+power-outlets:
+  - name: Outlet 1
+    type: iec-60320-c19
+  - name: Outlet 2
+    type: iec-60320-c13
+  - name: Outlet 3
+    type: iec-60320-c13
+  - name: Outlet 4
+    type: iec-60320-c13
+  - name: Outlet 5
+    type: iec-60320-c13
+  - name: Outlet 6
+    type: iec-60320-c13
+  - name: Outlet 7
+    type: iec-60320-c13
+  - name: Outlet 8
+    type: iec-60320-c13
+  - name: Outlet 9
+    type: iec-60320-c13
+interfaces:
+  - name: Management
+    type: 100base-tx
+    mgmt_only: true
+
+
+16 IEC 60320 C13
+2 IEC 60320 C19
