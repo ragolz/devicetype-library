@@ -27,6 +27,8 @@ interfaces:
 module-bays:
   - name: PSU1
     position: PSU1
+  - name: PSU2
+    position: PSU2    
   - name: PCI-E 1
     position: '1'
     description: PCI-E 3.0x 8-slot (CPU1)
