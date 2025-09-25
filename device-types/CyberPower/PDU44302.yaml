@@ -77,9 +77,7 @@ console-ports:
 interfaces:
   - name: Network
     type: 1000base-t
-  - name: Sensor
-    type: 1000base-t
-  - name: Daisy-Chain-In
+  - name: Daisy-Chain-In Env
     type: 1000base-t
   - name: Daisy-Chain-Out
     type: 1000base-t
