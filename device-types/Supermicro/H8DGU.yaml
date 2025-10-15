@@ -1,0 +1,40 @@
+---
+manufacturer: Supermicro
+model: H8DGU
+slug: supermicro-h8dgu
+part_number: H8DGU
+u_height: 2
+is_full_depth: true
+comments: 'Supermicro H8DGU - CPU: Dual 1944-Pin Socket G34 Support upto two Twelve/Eight-Core ready AMD Opteron 6100 Series processors, Support HT3.0 Link Technology  
+Chipset: AMD chipset SR5670 + SP5100  
+Memory: 16x 240-Pin DDR3-1333/1066/800 DIMMs, Supports Upto 256 GB ECC/REG Memory  
+Video: Matrox G200 Graphics Controller, with DDR2 16 MB Video Memory  
+LAN: Intel 82576 Dual-Port Gigabit Ethernet Controllers  
+Ports: 7x USB 2.0 Ports (2 rear, 4 by headers, 1x Type A); 2x PS/2 Ports; 2x Serial Ports(1 rear, 1 by header); 1x VGA Port; 1x RJ45 LAN port'
+weight: 16.1
+weight_unit: kg
+airflow: front-to-rear
+front_image: false
+rear_image: false
+console-ports:
+  - name: Serial
+    type: de-9
+    description: Rear port
+interfaces:
+  - name: BMC
+    type: 1000base-t
+    mgmt_only: true
+    description: Dedicated IPMI port
+  - name: Gig-E 1
+    type: 1000base-t
+  - name: Gig-E 2
+    type: 1000base-t
+module-bays:
+  - name: PSU1
+    position: PSU1
+  - name: PSU2
+    position: PSU2
+  - name: PCI-E 1
+    position: '1'
+    description: PCI-E 2.0 x16 slot
+
