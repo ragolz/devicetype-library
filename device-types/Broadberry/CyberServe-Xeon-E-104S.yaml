@@ -3,7 +3,7 @@ manufacturer: Broadberry
 model: CyberServe Xeon E-104S
 slug: broadberry-sys-521c-nr
 part_number: cyberserve-xeon-e-104s
-u_height: 2
+u_height: 1
 is_full_depth: true
 comments: '[Broadberry CyberServe Xeon E-104S] (https://www.broadberry.co.uk/xeon-e-rackmount-servers/cyberserve-xeon-e-104s) posabily Supermicro CSE-813MFTQC-505CB rebadged'
 weight: 14.06
