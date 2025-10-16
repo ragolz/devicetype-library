@@ -1,0 +1,14 @@
+---
+manufacturer: Supermicro
+model: Add-on Card AOC-ATGC-i2TM
+part_number: AOC-ATGC-i2TM
+description: Intel X710 10GbE controller - Advanced I/O Module (AIOM) Form Factor
+comments: '[Supermicro AOC-ATGC-i2TM](https://www.supermicro.com/en/products/accessories/addon/aoc-atgc-i2tm.php) Advanced I/O Module (AIOM) Form Factor  
+Intel® X710-AT2 controller  
+2x RJ45 connectors with speed up to 10Gbps per port  
+PCI-E Gen3 X8'
+interfaces:
+  - name: Gig-E 1
+    type: 10gbase-t
+  - name: Gig-E 2
+    type: 10gbase-t
