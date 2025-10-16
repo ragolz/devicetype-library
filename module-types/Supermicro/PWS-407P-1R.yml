@@ -1,0 +1,10 @@
+---
+manufacturer: Supermicro
+model: Platinum PSU 400W
+part_number: PWS-407P-1R
+comments: |
+  [Supermicro 400W 1U Redundant Power Supply](https://store.supermicro.com/400w-1u-pws-407p-1r.html)
+power-ports:
+  - name: PSU{module}
+    type: iec-60320-c14
+    maximum_draw: 400
