@@ -1,7 +1,8 @@
 ---
 manufacturer: Supermicro
-model: Platinum PSU 400W
+model: PWS-470P-1R
 part_number: PWS-470P-1R
+description: Platinum PSU 400W
 comments: |
   [400W 1U Multi-Output Power Supply]
 power-ports:

@@ -1,7 +1,8 @@
 ---
 manufacturer: Supermicro
-model: Platinum PSU 500W
+model: PWS-504P-1R
 part_number: PWS-504P-1R
+description: Platinum PSU 500W
 power-ports:
   - name: PSU-{module}
     type: iec-60320-c14

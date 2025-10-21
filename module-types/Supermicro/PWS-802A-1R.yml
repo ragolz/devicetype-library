@@ -1,7 +1,8 @@
 ---
 manufacturer: Supermicro
-model: 800W 1U Redundant Power Supply
+model: PWS-802A-1R
 part_number: PWS-802A-1R
+description: 800W 1U Redundant Power Supply
 power-ports:
   - name: PSU-{module}
     type: iec-60320-c14

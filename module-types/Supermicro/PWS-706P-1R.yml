@@ -1,7 +1,8 @@
 ---
 manufacturer: Supermicro
-model: Platinum PSU 750W
+model: PWS-706P-1R
 part_number: PWS-706P-1R
+description: Platinum PSU 750W
 power-ports:
   - name: PSU-{module}
     type: iec-60320-c14

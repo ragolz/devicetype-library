@@ -24,11 +24,14 @@ interfaces:
     type: 1000base-t
   - name: Gig-E 2
     type: 1000base-t
+power-ports:
+  - name: PSU 1
+    type: iec-60320-c14
+    maximum_draw: 200
+  - name: PSU 2
+    type: iec-60320-c14
+    maximum_draw: 200
 module-bays:
-  - name: PSU1
-    position: PSU1
-  - name: PSU2
-    position: PSU2    
   - name: PCI-E 1
     position: '1'
     description: PCI-E 3.0x 8-slot (CPU1)

@@ -1,14 +1,14 @@
 ---
 manufacturer: Custom
-model: Custom 1U Server
-slug: custom-1u-server
-part_number: custom-1u-server
+model: Custom 1U Firewall
+slug: custom-1u-firewall
+part_number: custom-1u-firewall
 u_height: 1
 is_full_depth: true
-comments: 'Custom generic 1U server chassis'
+comments: 'Custom generic 1U firewall chassis'
 front_image: true
 rear_image: true
-weight: 17.6
+weight: 5
 weight_unit: kg
 airflow: front-to-rear
 console-ports:
@@ -24,6 +24,18 @@ interfaces:
     type: 1000base-t
   - name: Gig-E 2
     type: 1000base-t
+  - name: Gig-E 3
+    type: 1000base-t
+  - name: Gig-E 4
+    type: 1000base-t
+  - name: Gig-E 5
+    type: 1000base-t
+  - name: Gig-E 6
+    type: 1000base-t
+  - name: Gig-E 7
+    type: 1000base-t
+  - name: Gig-E 8
+    type: 1000base-t
 power-ports:
   - name: PSU 1
     type: iec-60320-c14
@@ -31,14 +43,5 @@ power-ports:
   - name: PSU 2
     type: iec-60320-c14
     maximum_draw: 200
-module-bays:
-  - name: PCI-E 1
-    position: '1'
-    description: PCI-E 3.0x 8-slot (CPU1)
-  - name: PCI-E 2
-    position: '2'
-    description: PCI-E 3.0x 8-slot (CPU1)
-  - name: PCI-E 3
-    position: '3'
-    description: PCI-E 3.0x 16-slot (CPU1)
+
 

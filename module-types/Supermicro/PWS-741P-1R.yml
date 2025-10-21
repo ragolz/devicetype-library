@@ -1,7 +1,8 @@
 ---
 manufacturer: Supermicro
-model: Platinum PSU 740W
+model: PWS-741P-1R
 part_number: PWS-741P-1R
+description: Platinum PSU 740W
 power-ports:
   - name: PSU-{module}
     type: iec-60320-c14

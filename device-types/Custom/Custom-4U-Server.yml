@@ -24,11 +24,12 @@ interfaces:
     type: 1000base-t
   - name: Gig-E 2
     type: 1000base-t
-module-bays:
+power-ports:
   - name: PSU1
     position: PSU1
   - name: PSU2
     position: PSU2    
+module-bays:
   - name: PCI-E 1
     position: '1'
     description: PCI-E 3.0x 8-slot (CPU1)
