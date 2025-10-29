@@ -5,7 +5,7 @@ slug: supermicro-sys-620p-trt
 part_number: SYS-620P-TRT
 u_height: 2
 is_full_depth: true
-comments: '[SuperServer SYS-620P-TRT] (https://www.supermicro.com/en/products/system/mainstream/2u/sys-620p-trt)'
+comments: '[SuperServer SYS-620P-TRT](https://www.supermicro.com/en/products/system/mainstream/2u/sys-620p-trt)'
 weight: 16.5
 weight_unit: kg
 airflow: front-to-rear
