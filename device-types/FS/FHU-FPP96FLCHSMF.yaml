@@ -1,0 +1,349 @@
+---
+manufacturer: FS
+model: FHU-FPP96FLCHSMF
+slug: fs-fhu-fpp96flchsmf
+part_number: FHU-FPP96FLCHSMF (#69081)
+u_height: 1.0
+is_full_depth: true
+comments: FHU 1U 19'' Fiber Adapter Panel, 96 Fibers OS2 Single Mode, 48 x LC UPC Duplex (Blue) Adapter, Ceramic Sleeve [FHU 1U 19'' Fiber Adapter Panel](https://www.fs.com/uk/products/69081.html?attribute=112843&id=4442078)
+is_powered: false
+front_image: true
+front-ports:
+  - name: Front Port 1
+    type: lc
+    rear_port: Rear Port 1
+    rear_port_position: 1
+  - name: Front Port 2
+    type: lc
+    rear_port: Rear Port 2
+    rear_port_position: 1
+  - name: Front Port 3
+    type: lc
+    rear_port: Rear Port 3
+    rear_port_position: 1
+  - name: Front Port 4
+    type: lc
+    rear_port: Rear Port 4
+    rear_port_position: 1
+  - name: Front Port 5
+    type: lc
+    rear_port: Rear Port 5
+    rear_port_position: 1
+  - name: Front Port 6
+    type: lc
+    rear_port: Rear Port 6
+    rear_port_position: 1
+  - name: Front Port 7
+    type: lc
+    rear_port: Rear Port 7
+    rear_port_position: 1
+  - name: Front Port 8
+    type: lc
+    rear_port: Rear Port 8
+    rear_port_position: 1
+  - name: Front Port 9
+    type: lc
+    rear_port: Rear Port 9
+    rear_port_position: 1
+  - name: Front Port 10
+    type: lc
+    rear_port: Rear Port 10
+    rear_port_position: 1
+  - name: Front Port 11
+    type: lc
+    rear_port: Rear Port 11
+    rear_port_position: 1
+  - name: Front Port 12
+    type: lc
+    rear_port: Rear Port 12
+    rear_port_position: 1
+  - name: Front Port 13
+    type: lc
+    rear_port: Rear Port 13
+    rear_port_position: 1
+  - name: Front Port 14
+    type: lc
+    rear_port: Rear Port 14
+    rear_port_position: 1
+  - name: Front Port 15
+    type: lc
+    rear_port: Rear Port 15
+    rear_port_position: 1
+  - name: Front Port 16
+    type: lc
+    rear_port: Rear Port 16
+    rear_port_position: 1
+  - name: Front Port 17
+    type: lc
+    rear_port: Rear Port 17
+    rear_port_position: 1
+  - name: Front Port 18
+    type: lc
+    rear_port: Rear Port 18
+    rear_port_position: 1
+  - name: Front Port 19
+    type: lc
+    rear_port: Rear Port 19
+    rear_port_position: 1
+  - name: Front Port 20
+    type: lc
+    rear_port: Rear Port 20
+    rear_port_position: 1
+  - name: Front Port 21
+    type: lc
+    rear_port: Rear Port 21
+    rear_port_position: 1
+  - name: Front Port 22
+    type: lc
+    rear_port: Rear Port 22
+    rear_port_position: 1
+  - name: Front Port 23
+    type: lc
+    rear_port: Rear Port 23
+    rear_port_position: 1
+  - name: Front Port 24
+    type: lc
+    rear_port: Rear Port 24
+    rear_port_position: 1
+  - name: Front Port 25
+    type: lc
+    rear_port: Rear Port 25
+    rear_port_position: 1
+  - name: Front Port 26
+    type: lc
+    rear_port: Rear Port 26
+    rear_port_position: 1
+  - name: Front Port 27
+    type: lc
+    rear_port: Rear Port 27
+    rear_port_position: 1
+  - name: Front Port 28
+    type: lc
+    rear_port: Rear Port 28
+    rear_port_position: 1
+  - name: Front Port 29
+    type: lc
+    rear_port: Rear Port 29
+    rear_port_position: 1
+  - name: Front Port 30
+    type: lc
+    rear_port: Rear Port 30
+    rear_port_position: 1
+  - name: Front Port 31
+    type: lc
+    rear_port: Rear Port 31
+    rear_port_position: 1
+  - name: Front Port 32
+    type: lc
+    rear_port: Rear Port 32
+    rear_port_position: 1
+  - name: Front Port 33
+    type: lc
+    rear_port: Rear Port 33
+    rear_port_position: 1
+  - name: Front Port 34
+    type: lc
+    rear_port: Rear Port 34
+    rear_port_position: 1
+  - name: Front Port 35
+    type: lc
+    rear_port: Rear Port 35
+    rear_port_position: 1
+  - name: Front Port 36
+    type: lc
+    rear_port: Rear Port 36
+    rear_port_position: 1
+  - name: Front Port 37
+    type: lc
+    rear_port: Rear Port 37
+    rear_port_position: 1
+  - name: Front Port 38
+    type: lc
+    rear_port: Rear Port 38
+    rear_port_position: 1
+  - name: Front Port 39
+    type: lc
+    rear_port: Rear Port 39
+    rear_port_position: 1
+  - name: Front Port 40
+    type: lc
+    rear_port: Rear Port 40
+    rear_port_position: 1
+  - name: Front Port 41
+    type: lc
+    rear_port: Rear Port 41
+    rear_port_position: 1
+  - name: Front Port 42
+    type: lc
+    rear_port: Rear Port 42
+    rear_port_position: 1
+  - name: Front Port 43
+    type: lc
+    rear_port: Rear Port 43
+    rear_port_position: 1
+  - name: Front Port 44
+    type: lc
+    rear_port: Rear Port 44
+    rear_port_position: 1
+  - name: Front Port 45
+    type: lc
+    rear_port: Rear Port 45
+    rear_port_position: 1
+  - name: Front Port 46
+    type: lc
+    rear_port: Rear Port 46
+    rear_port_position: 1
+  - name: Front Port 47
+    type: lc
+    rear_port: Rear Port 47
+    rear_port_position: 1
+  - name: Front Port 48
+    type: lc
+    rear_port: Rear Port 48
+    rear_port_position: 1
+    
+rear-ports:
+  - name: Rear Port 1
+    type: lc
+    positions: 1
+  - name: Rear Port 2
+    type: lc
+    positions: 1
+  - name: Rear Port 3
+    type: lc
+    positions: 1
+  - name: Rear Port 4
+    type: lc
+    positions: 1
+  - name: Rear Port 5
+    type: lc
+    positions: 1
+  - name: Rear Port 6
+    type: lc
+    positions: 1
+  - name: Rear Port 7
+    type: lc
+    positions: 1
+  - name: Rear Port 8
+    type: lc
+    positions: 1
+  - name: Rear Port 9
+    type: lc
+    positions: 1
+  - name: Rear Port 10
+    type: lc
+    positions: 1
+  - name: Rear Port 11
+    type: lc
+    positions: 1
+  - name: Rear Port 12
+    type: lc
+    positions: 1
+  - name: Rear Port 13
+    type: lc
+    positions: 1
+  - name: Rear Port 14
+    type: lc
+    positions: 1
+  - name: Rear Port 15
+    type: lc
+    positions: 1
+  - name: Rear Port 16
+    type: lc
+    positions: 1
+  - name: Rear Port 17
+    type: lc
+    positions: 1
+  - name: Rear Port 18
+    type: lc
+    positions: 1
+  - name: Rear Port 19
+    type: lc
+    positions: 1
+  - name: Rear Port 20
+    type: lc
+    positions: 1
+  - name: Rear Port 21
+    type: lc
+    positions: 1
+  - name: Rear Port 22
+    type: lc
+    positions: 1
+  - name: Rear Port 23
+    type: lc
+    positions: 1
+  - name: Rear Port 24
+    type: lc
+    positions: 1
+  - name: Rear Port 25
+    type: lc
+    positions: 1
+  - name: Rear Port 26
+    type: lc
+    positions: 1
+  - name: Rear Port 27
+    type: lc
+    positions: 1
+  - name: Rear Port 28
+    type: lc
+    positions: 1
+  - name: Rear Port 29
+    type: lc
+    positions: 1
+  - name: Rear Port 30
+    type: lc
+    positions: 1
+  - name: Rear Port 31
+    type: lc
+    positions: 1
+  - name: Rear Port 32
+    type: lc
+    positions: 1
+  - name: Rear Port 33
+    type: lc
+    positions: 1
+  - name: Rear Port 34
+    type: lc
+    positions: 1
+  - name: Rear Port 35
+    type: lc
+    positions: 1
+  - name: Rear Port 36
+    type: lc
+    positions: 1
+  - name: Rear Port 37
+    type: lc
+    positions: 1
+  - name: Rear Port 38
+    type: lc
+    positions: 1
+  - name: Rear Port 39
+    type: lc
+    positions: 1
+  - name: Rear Port 40
+    type: lc
+    positions: 1
+  - name: Rear Port 41
+    type: lc
+    positions: 1
+  - name: Rear Port 42
+    type: lc
+    positions: 1
+  - name: Rear Port 43
+    type: lc
+    positions: 1
+  - name: Rear Port 44
+    type: lc
+    positions: 1
+  - name: Rear Port 45
+    type: lc
+    positions: 1
+  - name: Rear Port 46
+    type: lc
+    positions: 1
+  - name: Rear Port 47
+    type: lc
+    positions: 1
+  - name: Rear Port 48
+    type: lc
+    positions: 1
